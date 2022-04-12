@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+#website-main {
+    padding: 55px;
+}
+
+html { 
+    background-color: azure;
+}
+
+body {
+    margin: 0;
+}
+
+#website-header {
+    position: fixed;
+    width: 100vw;
+    padding: 20px;
+    background-color: white;
+    border-bottom: 1px solid grey;
+}
+
+section {
+    margin-top: 50px;
+    margin-bottom: 400px;
+}
+
+#main-image {
+    width: 300px;
+}
